@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex3/1.0.0": {
+        "dependencies": {
+          "ProfessinalLesson15": "1.0.0"
+        },
+        "runtime": {
+          "Ex3.dll": {}
+        }
+      },
+      "ProfessinalLesson15/1.0.0": {
+        "runtime": {
+          "ProfessinalLesson15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProfessinalLesson15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
